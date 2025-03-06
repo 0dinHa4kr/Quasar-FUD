@@ -1,18 +1,22 @@
-# Quasar
-
-[![Build status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)](https://ci.appveyor.com/project/MaxXor/quasar)
-[![Downloads](https://img.shields.io/github/downloads/Quasar-Continuation/Quasar-Modded/total.svg)](https://github.com/Quasar-Continuation/Quasar-Modded/releases)
-[![License](https://img.shields.io/github/license/Quasar-Continuation/Quasar-Modded.svg)](LICENSE)
+# Quasar [FUD]
 
 **Free, Open-Source Remote Administration Tool for Windows**
 
 Quasar is a fast and light-weight remote administration tool coded in C#. The usage ranges from user support through day-to-day administrative work to employee monitoring. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
 
-Please check out the [Getting Started](https://github.com/Quasar-Continuation/Quasar-Modded/wiki/Getting-Started) guide.
+---
+
+## 📥 Download
+
+- **[Latest stable release](https://github.com/Quasar-Continuation/Quasar-Modded/releases)** (recommended)
+- **[Latest development snapshot](https://ci.appveyor.com/project/MaxXor/quasar)**
 
 ---
 
 ## 📸 Screenshots
+
+### Detections
+![det](Images/det.png)
 
 ### Remote Shell
 ![remote-shell](Images/remote_shell.png)
@@ -44,15 +48,6 @@ Please check out the [Getting Started](https://github.com/Quasar-Continuation/Qu
 - **Reverse Proxy** (SOCKS5)
 - **Password Recovery** (Common Browsers and FTP Clients)
 - **... and many more!**
-
----
-
-## 📥 Download
-
-- **[Latest stable release](https://github.com/Quasar-Continuation/Quasar-Modded/releases)** (recommended)
-- **[Latest development snapshot](https://ci.appveyor.com/project/MaxXor/quasar)**
-
----
 
 ## 🖥️ Supported Runtimes and Operating Systems
 
